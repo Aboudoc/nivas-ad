@@ -47,6 +47,8 @@ Platform: [Higgsfield](https://higgsfield.ai) · generation constraint: **8-seco
 companion/
   hero-site/            Homepage background video — 16:9, fixed shot, 8 s, loop, muted
     pro-bts-chong-nonsi.md      PRO version: the BTS S-curve at Chong Nonsi + MahaNakhon
+    aerial-skyline-loop.md      Variant: aerial skyline, clouds only — loop-friendliest
+    wat-arun-sunset-loop.md     Variant: Wat Arun pastel sunset, matches the Global hero still
     humour-tvc-condo.md         HUMOUR version: slapstick/deadpan inside a single frame
   social-agents/        9:16 spot for Facebook/TikTok/Reels targeting BKK freelance agents
     clip1-chaos-motosai.md      Classic TVC 3×8 s structure: the chaos
