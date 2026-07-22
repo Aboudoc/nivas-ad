@@ -60,6 +60,7 @@ companion/
     spot2-clip2-horror-parody.md  … the Thai ghost-film swerve
     spot2-clip3-realtime-save.md  … saved by real-time stock + end card
     spot3-aura-walk.md            Spot 3 (single 8 s): sexy-funny perfume-ad parody
+    spot4-lakorn-almost-kiss.md   Spot 4 (single 8 s): lakorn soap-opera almost-kiss parody
 global/
   template-master.md    THE modular luxury template ({AGENT_NATIONALITY}, {CLIENT_…}, {DOG_CLAUSE}…)
   nationality-codes.md  Per-nationality codes table: outfits, dog, accent color
