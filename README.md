@@ -50,11 +50,15 @@ companion/
     aerial-skyline-loop.md      Variant: aerial skyline, clouds only — loop-friendliest
     wat-arun-sunset-loop.md     Variant: Wat Arun pastel sunset, matches the Global hero still
     humour-tvc-condo.md         HUMOUR version: slapstick/deadpan inside a single frame
+    humour-sticky-notes.md      HUMOUR version 2: sticky-note storm + deadpan look to camera
   social-agents/        9:16 spot for Facebook/TikTok/Reels targeting BKK freelance agents
-    clip1-chaos-motosai.md      Classic TVC 3×8 s structure: the chaos
+    clip1-chaos-motosai.md      Spot 1 (day-in-the-life), 3×8 s: the chaos
     clip2-twist-lobby.md        … the twist
     clip3-payoff-key-handover.md … the payoff + end card
     montage-8s-standalone.md    Single 8 s clip variant (editing recipe)
+    spot2-clip1-double-booking.md Spot 2 (horror parody), 3×8 s: the double booking
+    spot2-clip2-horror-parody.md  … the Thai ghost-film swerve
+    spot2-clip3-realtime-save.md  … saved by real-time stock + end card
 global/
   template-master.md    THE modular luxury template ({AGENT_NATIONALITY}, {CLIENT_…}, {DOG_CLAUSE}…)
   nationality-codes.md  Per-nationality codes table: outfits, dog, accent color
