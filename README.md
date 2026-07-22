@@ -59,6 +59,7 @@ companion/
     spot2-clip1-double-booking.md Spot 2 (horror parody), 3×8 s: the double booking
     spot2-clip2-horror-parody.md  … the Thai ghost-film swerve
     spot2-clip3-realtime-save.md  … saved by real-time stock + end card
+    spot3-aura-walk.md            Spot 3 (single 8 s): sexy-funny perfume-ad parody
 global/
   template-master.md    THE modular luxury template ({AGENT_NATIONALITY}, {CLIENT_…}, {DOG_CLAUSE}…)
   nationality-codes.md  Per-nationality codes table: outfits, dog, accent color
