@@ -63,6 +63,8 @@ companion/
     spot4-lakorn-almost-kiss.md   Spot 4 (single 8 s): lakorn soap-opera almost-kiss parody
   site-widgets/         Small looping videos embedded in the website UI
     line-contact-circle.md        Round LINE chat bubble presenter (LivingInsider style)
+  site-images/          STILL-image prompts (not video) for website illustration
+    pfon-image-pack.md            8 P'Fon presenter poses (cutout-ready) mapped to site sections
 global/
   template-master.md    THE modular luxury template ({AGENT_NATIONALITY}, {CLIENT_…}, {DOG_CLAUSE}…)
   nationality-codes.md  Per-nationality codes table: outfits, dog, accent color
