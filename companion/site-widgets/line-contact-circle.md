@@ -1,8 +1,9 @@
-# Site widget — the LINE contact circle (LivingInsider style)
+# Site widget — the LINE contact circle
 
-- **Usage**: small looping video inside the round LINE contact bubble on the website
-  (like LivingInsider's): a friendly presenter waves, points at the chat button,
-  thumbs-up, loops. Invites visitors to tap and chat on LINE.
+- **Usage**: small looping video inside the round LINE contact bubble on the
+  website: a friendly presenter waves, points at the chat button, thumbs-up,
+  loops. Invites visitors to tap and chat on LINE — a standard pattern on Thai
+  real-estate sites.
 - **⚠️ Character consistency**: the presenter MUST be **P'Fon — the same Thai woman
   as the humour spots** (spot 1 motosai, spot 2 double-booking, hero sticky-notes).
   When generating, **attach 2–3 clean reference frames of her face** (exported from
@@ -38,8 +39,8 @@ No text, no logos.
 ## Prompt B — site implementation (paste into Claude Code)
 
 ```
-Add a floating LINE contact widget to the site, styled like LivingInsider's,
-following the project's existing stack and conventions.
+Add a floating LINE contact widget to the site, in the style common on Thai
+real-estate sites, following the project's existing stack and conventions.
 
 - Fixed position bottom-right (24px offsets, safe-area aware), above all content.
 - A 96px circular bubble (72px on mobile) containing a looping video
