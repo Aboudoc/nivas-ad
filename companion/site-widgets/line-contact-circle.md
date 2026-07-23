@@ -59,9 +59,16 @@ following the project's existing stack and conventions.
 - A small × dismiss button hides the widget for the session (sessionStorage).
 ```
 
+## Before pasting Prompt B
+
+- Replace `@REPLACE_ME` with the real official LINE account ID.
+- Have `assets/line-circle.mp4` ready (the Prompt A video, exported compressed
+  mp4 + webm, a few hundred KB max — it loops forever on every page) + a poster
+  frame image.
+- Have the official LINE icon asset downloaded (LINE brand guidelines) — Claude
+  Code must not redraw it.
+
 ## Integration notes
 
 - The green LINE pill is an HTML overlay, never generated in the video. The LINE
   logo must be the official brand asset (LINE brand guidelines).
-- Export the video compressed (mp4 + webm), a few hundred KB max — it loops forever
-  on every page.
