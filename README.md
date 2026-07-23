@@ -57,6 +57,7 @@ companion/
     humour-sticky-notes.md      HUMOUR version 2: sticky-note storm + deadpan look to camera
   social-agents/        9:16 spot for Facebook/TikTok/Reels targeting BKK freelance agents
     clip1-chaos-motosai.md      Spot 1 (day-in-the-life), 3×8 s: the chaos
+    clip1-chaos-scooter-male.md Male mirror of the chaos clip: Ton rides his own scooter
     clip2-twist-lobby.md        … the twist
     clip3-payoff-key-handover.md … the payoff + end card
     montage-8s-standalone.md    Single 8 s clip variant (editing recipe)
@@ -70,6 +71,7 @@ companion/
     line-contact-circle-male.md   Male variant: "Ton", the calm cha-yen agent from the hero
   site-images/          STILL-image prompts (not video) for website illustration
     pfon-image-pack.md            8 P'Fon presenter poses (cutout-ready) mapped to site sections
+    ton-image-pack.md             9 Ton poses (male, deadpan-cool register + cha-yen signature)
 global/
   template-master.md    THE modular luxury template ({AGENT_NATIONALITY}, {CLIENT_…}, {DOG_CLAUSE}…)
   nationality-codes.md  Per-nationality codes table: outfits, dog, accent color
