@@ -49,6 +49,10 @@ companion/
     pro-bts-chong-nonsi.md      PRO version: the BTS S-curve at Chong Nonsi + MahaNakhon
     aerial-skyline-loop.md      Variant: aerial skyline, clouds only — loop-friendliest
     wat-arun-sunset-loop.md     Variant: Wat Arun pastel sunset, matches the Global hero still
+    benjakitti-golden-hour-loop.md  Luxury set: Benjakitti Park mirror + tower ring, first golden hour
+    golden-buddha-sunrise-loop.md   Luxury set: the great golden Buddha (Wat Paknam) at dawn
+    mahanakhon-luxury-loop.md       Luxury set: MahaNakhon glass canyon, light on facades
+    sukhumvit-night-loop.md         Luxury set: Sukhumvit night, silky light streams
     humour-tvc-condo.md         HUMOUR version: slapstick/deadpan inside a single frame
     humour-sticky-notes.md      HUMOUR version 2: sticky-note storm + deadpan look to camera
   social-agents/        9:16 spot for Facebook/TikTok/Reels targeting BKK freelance agents
