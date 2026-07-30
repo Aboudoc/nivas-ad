@@ -66,6 +66,8 @@ companion/
     spot2-clip3-realtime-save.md  … saved by real-time stock + end card
     spot3-aura-walk.md            Spot 3 (single 8 s): sexy-funny perfume-ad parody
     spot4-lakorn-almost-kiss.md   Spot 4 (single 8 s): lakorn soap-opera almost-kiss parody
+    spot5-clip1-fortune-teller-setup.md Spot 5 (mutelu parody), 2×8 s: the mystic setup
+    spot5-clip2-fortune-teller-twist.md … the deadpan twist ("even the fortune teller uses it")
   site-widgets/         Small looping videos embedded in the website UI
     line-contact-circle.md        Round LINE chat bubble presenter (looping video, P'Fon)
     line-contact-circle-male.md   Male variant: "Ton", the calm cha-yen agent from the hero
