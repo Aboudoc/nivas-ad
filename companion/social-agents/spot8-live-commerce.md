@@ -37,12 +37,14 @@ A young Thai woman agent in a light blazer stands in a bright modern Bangkok con
 living room, floor-to-ceiling window view behind her, performing a high-energy
 live-selling stream straight into the lens. She holds up ONE index finger to the
 camera — a single finger, held steady — then points at the river view with a full
-open palm, slaps a bright promo sticker onto the window glass with a flat hand,
+open palm, slaps a plain completely blank bright-orange round sticker (solid
+color, NO writing on it) onto the window glass with a flat hand,
 and finally taps her wrist urgently like a ticking watch, eyes huge, leaning
 slightly toward the lens. Fast excited energy throughout. Pure live-seller
 manner, completely earnest, no irony. Hands always clearly visible with simple
 shapes: one finger, open palm, flat tap — never finger counting. No text, no
-logos, no on-screen UI.
+logos, no on-screen UI, no written signs, posters or labels anywhere in the
+scene.
 ```
 
 ## Clip 2 — real-time stock kills the live
