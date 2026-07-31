@@ -28,16 +28,25 @@ platform's exact trademarked assets.
 
 - **Spot 8** — `spot8-live-commerce.md`: LIVE ขายห้อง (the condo live-sale)
 - **Spot 9** — `spot9-mockumentary.md`: 1 วันกับเอเจนท์ตัวตึง (a day with the GOAT)
+- **Spot 10** — `spot10-cctv-corridor.md`: the conveyor-belt agent "caught on camera"
+- **Spot 11** — `spot11-grwm-agent.md`: GRWM เอเจนท์ (agent-edition morning routine)
+- **Spot 12** — `spot12-street-interview.md`: vox-pop "how many units?" (stitch bait)
 
 ## Future-format backlog (next episodes to write)
 
-- **CCTV / doorbell cam** — timestamped corridor footage of an absurdly efficient
-  viewing (comedy in fast-forward), "leaked security footage" framing.
 - **Voice-note drama** — a screen-recording style story told through LINE voice
   notes + typing bubbles; the twist lands in the last note.
-- **GRWM (get ready with me)** — P'Fon does agent-GRWM: helmet, cha yen,
-  portfolio… phone last, tapped once: "พร้อมค่ะ" ("ready").
-- **Street micro-interview** — the viral vox-pop format: "how many units do you
-  manage?" answers escalate absurdly; P'Fon's answer is just her phone screen.
 - **Fake tutorial** — "how to lose a client in 3 easy steps" taught dead
   seriously, the app appears as the forbidden cheat code.
+
+## Hard-won generation lessons (apply to every episode)
+
+- Never name the format's LOOK in the prompt ("live-stream look", "CCTV footage")
+  — the model hallucinates badges, timestamps, REC icons. Generate a CLEAN plate
+  (angle + lighting only) and add ALL format dressing in post.
+- Every clip either PINS its exact spoken line (short, particle-correct, female
+  voice locked for P'Fon) or states "No one speaks on camera".
+- Anatomically simple gestures only (one finger, open palm, flat tap) — never
+  finger counting; props are blank (no writing).
+- P'Fon face refs ONLY when she is the sole woman in frame; any other woman is
+  described explicitly different.

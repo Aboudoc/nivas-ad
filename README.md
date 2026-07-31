@@ -76,6 +76,9 @@ companion/
     real-thai-style.md            "Real Thai" style guide: native-format ads for the 20–30 gen + format backlog
     spot8-live-commerce.md        Spot 8 (Real Thai, 2×8 s): the condo live-sale killed by real-time stock
     spot9-mockumentary.md         Spot 9 (Real Thai, 3×8 s): mockumentary — a day with the GOAT agent
+    spot10-cctv-corridor.md       Spot 10 (TikTok, 1×8 s): conveyor-belt agent "caught on camera"
+    spot11-grwm-agent.md          Spot 11 (TikTok, 1×8 s): GRWM agent-edition morning routine
+    spot12-street-interview.md    Spot 12 (TikTok, 3×8 s): vox-pop escalation, stitch-bait
   site-widgets/         Small looping videos embedded in the website UI
     line-contact-circle.md        Round LINE chat bubble presenter (looping video, P'Fon)
     line-contact-circle-male.md   Male variant: "Ton", the calm cha-yen agent from the hero
