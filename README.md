@@ -70,6 +70,9 @@ companion/
     spot5-clip2-fortune-teller-twist.md … the deadpan twist ("even the fortune teller uses it")
     spot6-unsung-agent.md         Spot 6 (sadvertising, 4×8 s): the unsung agent + keychain payback
     spot7-lonely-room.md          Spot 7 (absurd personification, 3×8 s): the lonely room in costume
+    real-thai-style.md            "Real Thai" style guide: native-format ads for the 20–30 gen + format backlog
+    spot8-live-commerce.md        Spot 8 (Real Thai, 2×8 s): the condo live-sale killed by real-time stock
+    spot9-mockumentary.md         Spot 9 (Real Thai, 3×8 s): mockumentary — a day with the GOAT agent
   site-widgets/         Small looping videos embedded in the website UI
     line-contact-circle.md        Round LINE chat bubble presenter (looping video, P'Fon)
     line-contact-circle-male.md   Male variant: "Ton", the calm cha-yen agent from the hero
