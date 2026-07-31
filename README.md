@@ -79,6 +79,8 @@ companion/
     spot10-cctv-corridor.md       Spot 10 (TikTok, 1×8 s): conveyor-belt agent "caught on camera"
     spot11-grwm-agent.md          Spot 11 (TikTok, 1×8 s): GRWM agent-edition morning routine
     spot12-street-interview.md    Spot 12 (TikTok, 3×8 s): vox-pop escalation, stitch-bait
+    spot13-first-deal.md          Spot 13 (4K flagship, 2×8 s): the first deal — hustle tearjerker
+    spot14-cha-yen-luxury.md      Spot 14 (4K, 1×8 s): cha yen shot like a Chanel commercial
   site-widgets/         Small looping videos embedded in the website UI
     line-contact-circle.md        Round LINE chat bubble presenter (looping video, P'Fon)
     line-contact-circle-male.md   Male variant: "Ton", the calm cha-yen agent from the hero
