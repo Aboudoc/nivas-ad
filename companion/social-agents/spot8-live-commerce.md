@@ -18,19 +18,31 @@
 
 ## Clip 1 — the live at full blast
 
+> **⚠️ Lessons from real runs**: (1) finger COUNTING (3-2-1) generates broken
+> hands — only use anatomically simple gestures: ONE held finger, open palm, flat
+> taps. (2) Without an explicit dialogue line, Seedance improvises random Thai
+> mouth-flapping on every take — it is non-deterministic. Fix: give ONE short
+> exact spoken line (native lip-sync is reliable on short lines only); have a
+> native speaker verify the generated audio, else replace it in post and avoid
+> tight mouth close-ups.
+
 ```
 Vertical 9:16, single continuous 8-second shot, static phone-on-tripod framing,
 shot-on-a-smartphone live-stream look: ring light glow, slightly grainy, bright
 flat lighting, realistic. CHARACTER REFERENCE: the woman is the same as in the
-attached photos.
+attached photos. SPOKEN DIALOGUE — she says exactly this short Thai line and
+nothing else: "เหลือห้องเดียวค่ะ! พิมพ์หนึ่งในแชทเลย!"
 
 A young Thai woman agent in a light blazer stands in a bright modern Bangkok condo
 living room, floor-to-ceiling window view behind her, performing a high-energy
-live-selling stream straight into the lens: machine-gun sales patter, she holds up
-one index finger to the camera, points dramatically at the river view, slaps a
-bright promo sticker onto the window glass, then counts down on her fingers
-3-2-1 with huge urgent eyes, leaning into the lens. Pure live-seller energy,
-completely earnest, no irony. No text, no logos, no on-screen UI.
+live-selling stream straight into the lens. She holds up ONE index finger to the
+camera — a single finger, held steady — then points at the river view with a full
+open palm, slaps a bright promo sticker onto the window glass with a flat hand,
+and finally taps her wrist urgently like a ticking watch, eyes huge, leaning
+slightly toward the lens. Fast excited energy throughout. Pure live-seller
+manner, completely earnest, no irony. Hands always clearly visible with simple
+shapes: one finger, open palm, flat tap — never finger counting. No text, no
+logos, no on-screen UI.
 ```
 
 ## Clip 2 — real-time stock kills the live
