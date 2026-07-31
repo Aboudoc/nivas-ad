@@ -18,22 +18,11 @@
 ## Prompt
 
 ```
-Vertical 9:16, single continuous 8-second shot, slow subtle push-in,
-photorealistic, styled like a Thai supernatural drama played completely straight —
-no comedy in this shot.
+Vertical 9:16, single continuous 8-second shot, slow subtle push-in, photorealistic, styled like a Thai supernatural drama played completely straight — no comedy in this shot.
 
-A dim mystical fortune-teller room in Bangkok at night: dozens of candles, drifting
-incense smoke, garlands of marigold flowers, a glowing crystal ball on a low table.
-CHARACTER REFERENCE: the young Thai woman client is the same woman as in the
-attached photos. She sits anxiously on the floor mat, palms pressed together in a
-respectful wai, leaning forward with wide worried eyes. Across the table, a
-flamboyant middle-aged Thai fortune teller in flowing white robes and heavy jade
-jewelry waves one hand slowly above the crystal ball, eyes closed, humming, head
-swaying with theatrical mystic gravity. Candle flames flicker; incense smoke curls
-between them.
+A dim mystical fortune-teller room in Bangkok at night: dozens of candles, drifting incense smoke, garlands of marigold flowers, a glowing crystal ball on a low table. CHARACTER REFERENCE: the young Thai woman client is the same woman as in the attached photos. She sits anxiously on the floor mat, palms pressed together in a respectful wai, leaning forward with wide worried eyes. Across the table, a flamboyant middle-aged Thai fortune teller in flowing white robes and heavy jade jewelry waves one hand slowly above the crystal ball, eyes closed, humming, head swaying with theatrical mystic gravity. Candle flames flicker; incense smoke curls between them.
 
-Warm candlelight amber against deep purple shadows, gentle haze, dramatic
-supernatural-movie framing. No text, no logos.
+Warm candlelight amber against deep purple shadows, gentle haze, dramatic supernatural-movie framing. No text, no logos.
 ```
 
 ## Dialogue / VO (post-production)

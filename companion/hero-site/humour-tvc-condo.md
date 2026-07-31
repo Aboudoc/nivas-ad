@@ -12,18 +12,9 @@
 ## Prompt
 
 ```
-Static wide shot, fixed camera, no cuts, single continuous 8-second shot, 16:9,
-photorealistic, Thai TV commercial comedy style.
+Static wide shot, fixed camera, no cuts, single continuous 8-second shot, 16:9, photorealistic, Thai TV commercial comedy style.
 
-Bright harsh tropical midday sun in front of a modern Bangkok condominium tower
-entrance, saturated colors, slightly overexposed daylight. LEFT SIDE: a sweaty,
-flustered Thai real-estate agent in a crumpled shirt, tie loose, comically chases a
-cloud of paper listing sheets scattering in the wind, stumbling, papers flying
-everywhere, a fat binder spilling. RIGHT SIDE: a calm, stylish young Thai agent
-stands perfectly still in the shade, holding only a smartphone, casually sipping
-bright-orange Thai iced tea from a plastic cup with a straw, gives one tiny knowing
-smile toward camera.
+Bright harsh tropical midday sun in front of a modern Bangkok condominium tower entrance, saturated colors, slightly overexposed daylight. LEFT SIDE: a sweaty, flustered Thai real-estate agent in a crumpled shirt, tie loose, comically chases a cloud of paper listing sheets scattering in the wind, stumbling, papers flying everywhere, a fat binder spilling. RIGHT SIDE: a calm, stylish young Thai agent stands perfectly still in the shade, holding only a smartphone, casually sipping bright-orange Thai iced tea from a plastic cup with a straw, gives one tiny knowing smile toward camera.
 
-Deadpan contrast, slapstick physical comedy, clean commercial lighting, warm skin
-tones, punchy colors. No text, no logos.
+Deadpan contrast, slapstick physical comedy, clean commercial lighting, warm skin tones, punchy colors. No text, no logos.
 ```

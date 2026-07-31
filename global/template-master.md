@@ -25,22 +25,11 @@
 ## Prompt
 
 ```
-8-second ultra-luxury commercial, single continuous shot, {ASPECT},
-slow cinematic {CAMERA}, 35mm anamorphic look, shallow depth of field,
-photorealistic skin and fabric texture.
+8-second ultra-luxury commercial, single continuous shot, {ASPECT}, slow cinematic {CAMERA}, 35mm anamorphic look, shallow depth of field, photorealistic skin and fabric texture.
 
-A breathtaking {AGENT_NATIONALITY} female real-estate agent with an haute-couture
-supermodel presence, {AGENT_OUTFIT}, walks slowly through a vast Bangkok penthouse —
-Italian marble floors, silk curtains breathing in the air-conditioning, floor-to-
-ceiling windows revealing the golden Bangkok skyline at sunset.
+A breathtaking {AGENT_NATIONALITY} female real-estate agent with an haute-couture supermodel presence, {AGENT_OUTFIT}, walks slowly through a vast Bangkok penthouse — Italian marble floors, silk curtains breathing in the air-conditioning, floor-to-ceiling windows revealing the golden Bangkok skyline at sunset.
 
-With one graceful gesture she presents the view to {CLIENT_COMPOSITION}, dressed in
-{CLIENT_OUTFIT}. {DOG_CLAUSE} The clients' expression shifts from composure to quiet
-awe.
+With one graceful gesture she presents the view to {CLIENT_COMPOSITION}, dressed in {CLIENT_OUTFIT}. {DOG_CLAUSE} The clients' expression shifts from composure to quiet awe.
 
-Lighting: warm golden-hour sun flooding the room, soft atmospheric haze, champagne
-and amber tones, deep elegant shadows, one accent of {ACCENT_COLOR}.
-Grade: high-end French fashion-house film — Chanel / Louis Vuitton commercial
-aesthetic, muted quiet-luxury palette, restrained sensuality, effortless wealth.
-No text, no logos, no music cues.
+Lighting: warm golden-hour sun flooding the room, soft atmospheric haze, champagne and amber tones, deep elegant shadows, one accent of {ACCENT_COLOR}. Grade: high-end French fashion-house film — Chanel / Louis Vuitton commercial aesthetic, muted quiet-luxury palette, restrained sensuality, effortless wealth. No text, no logos, no music cues.
 ```

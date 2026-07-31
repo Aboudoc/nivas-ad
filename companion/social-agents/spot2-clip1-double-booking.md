@@ -14,16 +14,9 @@
 ## Prompt
 
 ```
-Vertical 9:16, single continuous 8-second shot, photorealistic, Thai TV commercial
-comedy style, bright clean daylight, warm skin tones, punchy saturated colors,
-slight film grain.
+Vertical 9:16, single continuous 8-second shot, photorealistic, Thai TV commercial comedy style, bright clean daylight, warm skin tones, punchy saturated colors, slight film grain.
 
-A Thai woman agent around 30, light blazer, proudly swings open the door of a
-Bangkok condo unit for her young client couple, gesturing like a game-show hostess.
-Inside, already standing in the living room: a sweaty male agent in a crumpled shirt
-with ANOTHER client couple, holding a measuring tape against the curtains. Everyone
-freezes. Fast comedic crash zoom onto the two agents' shocked faces staring at each
-other. Classic Thai comedy timing, exaggerated expressions. No text, no logos.
+A Thai woman agent around 30, light blazer, proudly swings open the door of a Bangkok condo unit for her young client couple, gesturing like a game-show hostess. Inside, already standing in the living room: a sweaty male agent in a crumpled shirt with ANOTHER client couple, holding a measuring tape against the curtains. Everyone freezes. Fast comedic crash zoom onto the two agents' shocked faces staring at each other. Classic Thai comedy timing, exaggerated expressions. No text, no logos.
 ```
 
 ## Dialogue / VO (post-production)

@@ -9,18 +9,9 @@
 ## Prompt
 
 ```
-Ultra-photorealistic cinematic static aerial wide shot from high above the city,
-locked-off camera, no camera movement, no cuts, single continuous 8-second shot,
-16:9.
+Ultra-photorealistic cinematic static aerial wide shot from high above the city, locked-off camera, no camera movement, no cuts, single continuous 8-second shot, 16:9.
 
-Bangkok from the sky at golden hour: an endless skyline of glass condo towers and
-rooftops stretching to the horizon, the Chao Phraya river curving softly through the
-city, warm sunlight grazing the building facades. Altitude high enough that no
-traffic, no trains and no people are visible. The only motion inside the frame: a
-few clouds drifting very slowly, their soft shadows gliding across the towers, a
-subtle tropical heat haze.
+Bangkok from the sky at golden hour: an endless skyline of glass condo towers and rooftops stretching to the horizon, the Chao Phraya river curving softly through the city, warm sunlight grazing the building facades. Altitude high enough that no traffic, no trains and no people are visible. The only motion inside the frame: a few clouds drifting very slowly, their soft shadows gliding across the towers, a subtle tropical heat haze.
 
-Cinematic warm golden-and-teal grade, gentle filmic contrast, high detail
-architecture. Loop-friendly: first and last frame nearly identical. No text, no
-logos.
+Cinematic warm golden-and-teal grade, gentle filmic contrast, high detail architecture. Loop-friendly: first and last frame nearly identical. No text, no logos.
 ```

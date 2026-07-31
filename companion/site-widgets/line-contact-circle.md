@@ -19,21 +19,11 @@
 ## Prompt A — video generation
 
 ```
-Square 1:1 aspect, single continuous 8-second shot, fixed camera, photorealistic,
-bright clean commercial studio look. CHARACTER REFERENCE: use the attached photos —
-the presenter must be the same Thai woman as in the reference images.
+Square 1:1 aspect, single continuous 8-second shot, fixed camera, photorealistic, bright clean commercial studio look. CHARACTER REFERENCE: use the attached photos — the presenter must be the same Thai woman as in the reference images.
 
-A friendly Thai woman around 30, light blazer, warm approachable energy, stands
-against a soft light-blue-to-white gradient studio background, framed chest-up and
-perfectly centered for a circular crop. She looks straight at camera with a warm
-smile, gives a small welcoming wave, then points down toward the lower center of
-the frame (where a chat button will be overlaid) and nods encouragingly, finishes
-with a friendly thumbs-up and returns to the exact same neutral smiling pose as the
-start. Soft even lighting, no harsh shadows, gentle motion only.
+A friendly Thai woman around 30, light blazer, warm approachable energy, stands against a soft light-blue-to-white gradient studio background, framed chest-up and perfectly centered for a circular crop. She looks straight at camera with a warm smile, gives a small welcoming wave, then points down toward the lower center of the frame (where a chat button will be overlaid) and nods encouragingly, finishes with a friendly thumbs-up and returns to the exact same neutral smiling pose as the start. Soft even lighting, no harsh shadows, gentle motion only.
 
-Loop-friendly: first and last frame nearly identical neutral smiling pose. Keep the
-lower center of the frame clear of hands at start and end for a button overlay.
-No text, no logos.
+Loop-friendly: first and last frame nearly identical neutral smiling pose. Keep the lower center of the frame clear of hands at start and end for a button overlay. No text, no logos.
 ```
 
 ## Prompt B — site implementation (paste into Claude Code)

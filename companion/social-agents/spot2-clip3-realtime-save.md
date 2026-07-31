@@ -15,15 +15,9 @@
 ## Prompt
 
 ```
-Vertical 9:16, single continuous 8-second shot, photorealistic, Thai TV commercial
-style, bright warm daylight again, clean commercial lighting, warm skin tones.
+Vertical 9:16, single continuous 8-second shot, photorealistic, Thai TV commercial style, bright warm daylight again, clean commercial lighting, warm skin tones.
 
-The Thai woman agent, perfectly calm, stands in the condo corridor with her young
-client couple. She glances at her smartphone (screen angled away from camera), taps
-it twice, nods confidently, then walks three steps and opens the door of the
-NEIGHBORING unit: warm golden sunlight floods out of the doorway onto their faces.
-The couple gasps in delight. She turns to camera for the final half-second with a
-confident wink. Feel-good, clean commercial finish. No text, no logos.
+The Thai woman agent, perfectly calm, stands in the condo corridor with her young client couple. She glances at her smartphone (screen angled away from camera), taps it twice, nods confidently, then walks three steps and opens the door of the NEIGHBORING unit: warm golden sunlight floods out of the doorway onto their faces. The couple gasps in delight. She turns to camera for the final half-second with a confident wink. Feel-good, clean commercial finish. No text, no logos.
 ```
 
 ## Dialogue / VO (post-production)

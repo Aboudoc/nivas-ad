@@ -14,12 +14,7 @@
 ## Prompt
 
 ```
-Vertical 9:16, single continuous 8-second shot, static camera with gentle rack focus,
-photorealistic, Thai TV commercial style, golden late-afternoon light.
+Vertical 9:16, single continuous 8-second shot, static camera with gentle rack focus, photorealistic, Thai TV commercial style, golden late-afternoon light.
 
-At a condo unit doorway, the Thai woman agent hands over keys to the delighted young
-couple; they receive them with both hands and a slight wai gesture, everyone
-laughing warmly. She turns her head to camera for the final half-second with a
-confident wink. Warm golden backlight through the corridor window, Bangkok skyline
-bokeh in the background. Feel-good, clean commercial finish. No text, no logos.
+At a condo unit doorway, the Thai woman agent hands over keys to the delighted young couple; they receive them with both hands and a slight wai gesture, everyone laughing warmly. She turns her head to camera for the final half-second with a confident wink. Warm golden backlight through the corridor window, Bangkok skyline bokeh in the background. Feel-good, clean commercial finish. No text, no logos.
 ```

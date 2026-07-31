@@ -17,20 +17,9 @@
 ## Prompt
 
 ```
-Vertical 9:16, single continuous 8-second shot, handheld documentary energy,
-photorealistic, Thai TV commercial comedy style, bright natural daylight, warm
-skin tones, punchy saturated colors, slight film grain. CHARACTER REFERENCE: the
-rider is the same young Thai man as in the attached photos.
+Vertical 9:16, single continuous 8-second shot, handheld documentary energy, photorealistic, Thai TV commercial comedy style, bright natural daylight, warm skin tones, punchy saturated colors, slight film grain. CHARACTER REFERENCE: the rider is the same young Thai man as in the attached photos.
 
-A young Thai real-estate agent in a light blazer rides his own small scooter
-through a sunny Sukhumvit soi and weaves to a stop at a red light. His scooter is
-comically plastered with pink and yellow sticky notes — on the fuel tank, the
-mirror stems, even his helmet. The phone mounted on his handlebar floods with
-endless chat notifications, buzzing nonstop. He frantically flips through the
-sticky notes on the tank with one hand; a note tears off and flies away behind
-him. His face: pure comic panic, wide eyes under the open helmet visor. Background:
-condo towers, street food stalls, an orange-vest motorcycle-taxi queue on the
-corner, BTS line overhead. No text, no logos.
+A young Thai real-estate agent in a light blazer rides his own small scooter through a sunny Sukhumvit soi and weaves to a stop at a red light. His scooter is comically plastered with pink and yellow sticky notes — on the fuel tank, the mirror stems, even his helmet. The phone mounted on his handlebar floods with endless chat notifications, buzzing nonstop. He frantically flips through the sticky notes on the tank with one hand; a note tears off and flies away behind him. His face: pure comic panic, wide eyes under the open helmet visor. Background: condo towers, street food stalls, an orange-vest motorcycle-taxi queue on the corner, BTS line overhead. No text, no logos.
 ```
 
 ## Dialogue / VO (post-production)

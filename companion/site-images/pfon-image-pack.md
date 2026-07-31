@@ -17,18 +17,13 @@
 ## Master prompt (fill {POSE})
 
 ```
-STILL IMAGE, high-resolution photorealistic commercial photography, portrait 2:3.
-CHARACTER REFERENCE: use the attached photos — the same Thai woman in every image.
+STILL IMAGE, high-resolution photorealistic commercial photography, portrait 2:3. CHARACTER REFERENCE: use the attached photos — the same Thai woman in every image.
 
-A friendly Thai woman around 30, light blazer over a white top, warm approachable
-smile, studio shot against a clean soft light-blue-to-white gradient background,
-bright even commercial lighting, no harsh shadows, three-quarter body framing,
-sharp focus, crisp clean edges suitable for background removal and cutout use.
+A friendly Thai woman around 30, light blazer over a white top, warm approachable smile, studio shot against a clean soft light-blue-to-white gradient background, bright even commercial lighting, no harsh shadows, three-quarter body framing, sharp focus, crisp clean edges suitable for background removal and cutout use.
 
 POSE: {POSE}
 
-Composition leaves clear empty space on one side for a headline. No text, no
-logos, no watermark. If a phone is in frame, its screen is plain dark and blank.
+Composition leaves clear empty space on one side for a headline. No text, no logos, no watermark. If a phone is in frame, its screen is plain dark and blank.
 ```
 
 ## The 8 poses and where each one is used on the site

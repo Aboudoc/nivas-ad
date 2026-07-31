@@ -17,20 +17,13 @@
 ## Master prompt (fill {POSE})
 
 ```
-STILL IMAGE, high-resolution photorealistic commercial photography, portrait 2:3.
-CHARACTER REFERENCE: use the attached photos — the same young Thai man in every
-image.
+STILL IMAGE, high-resolution photorealistic commercial photography, portrait 2:3. CHARACTER REFERENCE: use the attached photos — the same young Thai man in every image.
 
-A calm, stylish young Thai man around 30, smart casual shirt with a light navy
-blazer over a plain tee, effortless deadpan-cool confidence with a slight smirk,
-studio shot against a clean soft light-blue-to-white gradient background, bright
-even commercial lighting, no harsh shadows, three-quarter body framing, sharp
-focus, crisp clean edges suitable for background removal and cutout use.
+A calm, stylish young Thai man around 30, smart casual shirt with a light navy blazer over a plain tee, effortless deadpan-cool confidence with a slight smirk, studio shot against a clean soft light-blue-to-white gradient background, bright even commercial lighting, no harsh shadows, three-quarter body framing, sharp focus, crisp clean edges suitable for background removal and cutout use.
 
 POSE: {POSE}
 
-Composition leaves clear empty space on one side for a headline. No text, no
-logos, no watermark. If a phone is in frame, its screen is plain dark and blank.
+Composition leaves clear empty space on one side for a headline. No text, no logos, no watermark. If a phone is in frame, its screen is plain dark and blank.
 ```
 
 ## The 9 poses and where each one is used on the site

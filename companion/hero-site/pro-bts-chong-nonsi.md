@@ -15,18 +15,9 @@
 ## Prompt
 
 ```
-Ultra-photorealistic cinematic static wide shot, locked-off tripod camera, no camera
-movement, no cuts, single continuous 8-second shot, 16:9.
+Ultra-photorealistic cinematic static wide shot, locked-off tripod camera, no camera movement, no cuts, single continuous 8-second shot, 16:9.
 
-Bangkok at blue hour: the famous S-curve of the elevated BTS Skytrain track at Chong
-Nonsi, the pixelated MahaNakhon skyscraper rising behind it, surrounded by glowing
-glass condo towers. A sleek BTS train glides smoothly along the curve from left to
-right, warm interior lights visible, and fully exits the frame. Below, soft streams
-of car light trails. Warm amber city lights against a deep teal-blue dusk sky, subtle
-tropical haze.
+Bangkok at blue hour: the famous S-curve of the elevated BTS Skytrain track at Chong Nonsi, the pixelated MahaNakhon skyscraper rising behind it, surrounded by glowing glass condo towers. A sleek BTS train glides smoothly along the curve from left to right, warm interior lights visible, and fully exits the frame. Below, soft streams of car light trails. Warm amber city lights against a deep teal-blue dusk sky, subtle tropical haze.
 
-Only calm motion inside the frame: the train, light trails, slowly drifting clouds.
-Cinematic teal-and-amber color grade, gentle filmic contrast, high detail
-architecture, 2K. Loop-friendly: first and last frame show the identical empty-track
-composition. No people in foreground, no text, no logos.
+Only calm motion inside the frame: the train, light trails, slowly drifting clouds. Cinematic teal-and-amber color grade, gentle filmic contrast, high detail architecture, 2K. Loop-friendly: first and last frame show the identical empty-track composition. No people in foreground, no text, no logos.
 ```

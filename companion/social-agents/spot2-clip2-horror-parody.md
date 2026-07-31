@@ -10,16 +10,9 @@
 ## Prompt
 
 ```
-Vertical 9:16, single continuous 8-second shot, photorealistic, Thai horror movie
-parody inside a TV commercial — comedic, exaggerated, not actually scary.
+Vertical 9:16, single continuous 8-second shot, photorealistic, Thai horror movie parody inside a TV commercial — comedic, exaggerated, not actually scary.
 
-The same Bangkok condo living room, now graded green-teal like a Thai ghost film:
-flickering ceiling light, hard shadows, lightning flashes through the window. The
-Thai woman agent and the sweaty male agent scream at each other face to face in slow
-motion, cheeks wobbling, while dozens of paper listing sheets swirl around the room
-like a poltergeist storm. Behind the sofa, the two client couples huddle together
-and peek out with wide comic eyes. Over-the-top acting, horror-trailer framing,
-slight camera shake, film grain. No text, no logos.
+The same Bangkok condo living room, now graded green-teal like a Thai ghost film: flickering ceiling light, hard shadows, lightning flashes through the window. The Thai woman agent and the sweaty male agent scream at each other face to face in slow motion, cheeks wobbling, while dozens of paper listing sheets swirl around the room like a poltergeist storm. Behind the sofa, the two client couples huddle together and peek out with wide comic eyes. Over-the-top acting, horror-trailer framing, slight camera shake, film grain. No text, no logos.
 ```
 
 ## VO (post-production — deep horror-trailer voice)

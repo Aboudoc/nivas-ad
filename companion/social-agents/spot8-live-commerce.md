@@ -34,48 +34,21 @@
 > hearts, chat, badge) is added in post over the clean footage.
 
 ```
-Vertical 9:16, single continuous 8-second shot, static vertical framing as if a
-phone stands on a tripod, bright flat even lighting, realistic, clean raw
-footage. CHARACTER REFERENCE: the woman is the same as in the attached photos.
-SPOKEN DIALOGUE — she says exactly this short Thai line and nothing else:
-"เหลือห้องเดียวค่ะ! พิมพ์หนึ่งในแชทเลย!"
+Vertical 9:16, single continuous 8-second shot, static vertical framing as if a phone stands on a tripod, bright flat even lighting, realistic, clean raw footage. CHARACTER REFERENCE: the woman is the same as in the attached photos. SPOKEN DIALOGUE — she says exactly this short Thai line and nothing else: "เหลือห้องเดียวค่ะ! พิมพ์หนึ่งในแชทเลย!"
 
-A young Thai woman agent in a light blazer stands in a bright modern Bangkok condo
-living room, floor-to-ceiling window view behind her, performing a high-energy
-sales pitch straight into the lens. She holds up ONE index finger to the camera —
-a single finger, held steady — then points at the river view with a full open
-palm, slaps a plain completely blank bright-orange round sticker (solid color, NO
-writing on it) onto the window glass with a flat hand, and finally taps her wrist
-urgently like a ticking watch, eyes huge, leaning slightly toward the lens. Fast
-excited energy throughout, completely earnest, no irony. Hands always clearly
-visible with simple shapes: one finger, open palm, flat tap — never finger
-counting.
+A young Thai woman agent in a light blazer stands in a bright modern Bangkok condo living room, floor-to-ceiling window view behind her, performing a high-energy sales pitch straight into the lens. She holds up ONE index finger to the camera — a single finger, held steady — then points at the river view with a full open palm, slaps a plain completely blank bright-orange round sticker (solid color, NO writing on it) onto the window glass with a flat hand, and finally taps her wrist urgently like a ticking watch, eyes huge, leaning slightly toward the lens. Fast excited energy throughout, completely earnest, no irony. Hands always clearly visible with simple shapes: one finger, open palm, flat tap — never finger counting.
 
-ABSOLUTELY CLEAN FRAME: no watermark, no logo, no badge, no interface graphics,
-no icons, no overlay of any kind, no on-screen text, no written signs or labels
-anywhere in the scene. Plain unedited camera footage.
+ABSOLUTELY CLEAN FRAME: no watermark, no logo, no badge, no interface graphics, no icons, no overlay of any kind, no on-screen text, no written signs or labels anywhere in the scene. Plain unedited camera footage.
 ```
 
 ## Clip 2 — real-time stock kills the live
 
 ```
-Vertical 9:16, single continuous 8-second shot, identical static vertical framing
-and bright flat lighting as the previous clip, clean raw footage, same bright
-condo living room. CHARACTER REFERENCE: the woman is the same as in the attached
-photos. SPOKEN DIALOGUE — she says exactly these two short Thai lines and nothing
-else, in this order: first "อ้าว… มีคนจองไปแล้วค่ะ" then, after a pause,
-"ใช่ค่ะ นี่คือโฆษณา"
+Vertical 9:16, single continuous 8-second shot, identical static vertical framing and bright flat lighting as the previous clip, clean raw footage, same bright condo living room. CHARACTER REFERENCE: the woman is the same as in the attached photos. SPOKEN DIALOGUE — she says exactly these two short Thai lines and nothing else, in this order: first "อ้าว… มีคนจองไปแล้วค่ะ" then, after a pause, "ใช่ค่ะ นี่คือโฆษณา"
 
-Mid-pitch, the young Thai woman agent glances at the second smartphone in her
-hand — and freezes. Her sales energy deflates instantly. She looks back into the
-lens, deadpan, says the first line with a small awkward smile and a tiny shrug,
-holds a silent beat… then leans in close to the camera, completely composed, and
-delivers the second line calmly, eyes locked on the lens. She says nothing else.
-The contrast: full chaos energy to serene deadpan.
+Mid-pitch, the young Thai woman agent glances at the second smartphone in her hand — and freezes. Her sales energy deflates instantly. She looks back into the lens, deadpan, says the first line with a small awkward smile and a tiny shrug, holds a silent beat… then leans in close to the camera, completely composed, and delivers the second line calmly, eyes locked on the lens. She says nothing else. The contrast: full chaos energy to serene deadpan.
 
-ABSOLUTELY CLEAN FRAME: no watermark, no logo, no badge, no interface graphics,
-no icons, no overlay of any kind, no on-screen text, no written signs or labels
-anywhere in the scene. Plain unedited camera footage.
+ABSOLUTELY CLEAN FRAME: no watermark, no logo, no badge, no interface graphics, no icons, no overlay of any kind, no on-screen text, no written signs or labels anywhere in the scene. Plain unedited camera footage.
 ```
 
 ## Dialogue / VO (post-production, burned-in subtitles)

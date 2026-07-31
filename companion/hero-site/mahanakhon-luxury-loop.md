@@ -11,20 +11,9 @@
 ## Prompt
 
 ```
-Ultra-photorealistic cinematic static wide shot, locked-off camera, no camera
-movement, no cuts, single continuous 8-second shot, 16:9. French luxury perfume
-commercial cinematography: soft optical bloom, gentle atmospheric haze, champagne
-highlights, deep elegant shadows, immaculate composition.
+Ultra-photorealistic cinematic static wide shot, locked-off camera, no camera movement, no cuts, single continuous 8-second shot, 16:9. French luxury perfume commercial cinematography: soft optical bloom, gentle atmospheric haze, champagne highlights, deep elegant shadows, immaculate composition.
 
-Bangkok golden hour: the pixelated MahaNakhon skyscraper rising through a canyon
-of glass towers in the Sathorn district, seen from a high vantage point. Warm low
-sun grazes the facades; soft amber reflections glide slowly across thousands of
-glass panels; teal-blue shadow sides give depth. Subtle tropical haze glows
-between the towers. Composition: MahaNakhon off-center, generous sky for a
-headline.
+Bangkok golden hour: the pixelated MahaNakhon skyscraper rising through a canyon of glass towers in the Sathorn district, seen from a high vantage point. Warm low sun grazes the facades; soft amber reflections glide slowly across thousands of glass panels; teal-blue shadow sides give depth. Subtle tropical haze glows between the towers. Composition: MahaNakhon off-center, generous sky for a headline.
 
-Only slow, calm motion inside the frame: sun glints traveling gently across the
-glass, slow drifting clouds, breathing haze. No trains, no traffic, no people, no
-birds. Loop-friendly: first and last frame nearly identical. High detail
-architecture, filmic contrast. No text, no logos.
+Only slow, calm motion inside the frame: sun glints traveling gently across the glass, slow drifting clouds, breathing haze. No trains, no traffic, no people, no birds. Loop-friendly: first and last frame nearly identical. High detail architecture, filmic contrast. No text, no logos.
 ```
