@@ -62,14 +62,16 @@ anywhere in the scene. Plain unedited camera footage.
 Vertical 9:16, single continuous 8-second shot, identical static vertical framing
 and bright flat lighting as the previous clip, clean raw footage, same bright
 condo living room. CHARACTER REFERENCE: the woman is the same as in the attached
-photos.
+photos. SPOKEN DIALOGUE — she says exactly these two short Thai lines and nothing
+else, in this order: first "อ้าว… มีคนจองไปแล้วค่ะ" then, after a pause,
+"ใช่ค่ะ นี่คือโฆษณา"
 
 Mid-pitch, the young Thai woman agent glances at the second smartphone in her
 hand — and freezes. Her sales energy deflates instantly. She looks back into the
-lens, deadpan, gives a small awkward smile and a tiny shrug, holds the beat…
-then leans in close to the camera, completely composed, and delivers one calm
-final line to the viewers, eyes locked on the lens. The contrast: full chaos
-energy to serene deadpan.
+lens, deadpan, says the first line with a small awkward smile and a tiny shrug,
+holds a silent beat… then leans in close to the camera, completely composed, and
+delivers the second line calmly, eyes locked on the lens. She says nothing else.
+The contrast: full chaos energy to serene deadpan.
 
 ABSOLUTELY CLEAN FRAME: no watermark, no logo, no badge, no interface graphics,
 no icons, no overlay of any kind, no on-screen text, no written signs or labels
