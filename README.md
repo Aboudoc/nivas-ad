@@ -68,6 +68,7 @@ companion/
     spot4-lakorn-almost-kiss.md   Spot 4 (single 8 s): lakorn soap-opera almost-kiss parody
     spot5-clip1-fortune-teller-setup.md Spot 5 (mutelu parody), 2×8 s: the mystic setup
     spot5-clip2-fortune-teller-twist.md … the deadpan twist ("even the fortune teller uses it")
+    spot6-unsung-agent.md         Spot 6 (sadvertising, 4×8 s): the unsung agent + keychain payback
   site-widgets/         Small looping videos embedded in the website UI
     line-contact-circle.md        Round LINE chat bubble presenter (looping video, P'Fon)
     line-contact-circle-male.md   Male variant: "Ton", the calm cha-yen agent from the hero
