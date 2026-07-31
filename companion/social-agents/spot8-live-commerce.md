@@ -34,7 +34,7 @@
 > hearts, chat, badge) is added in post over the clean footage.
 
 ```
-Vertical 9:16, single continuous 8-second shot, static vertical framing as if a phone stands on a tripod, bright flat even lighting, realistic, clean raw footage. CHARACTER REFERENCE: the woman is the same as in the attached photos. SPOKEN DIALOGUE — she says exactly this short Thai line and nothing else: "เหลือห้องเดียวค่ะ! พิมพ์หนึ่งในแชทเลย!"
+Vertical 9:16, single continuous 8-second shot, static vertical framing as if a phone stands on a tripod, bright flat even lighting, realistic, clean raw footage. CHARACTER REFERENCE: the woman is the same as in the attached photos. SPOKEN DIALOGUE — she says exactly this short Thai line and nothing else, in a natural young FEMALE Thai voice, ending with the polite feminine particle "ค่ะ" (kha), never the masculine "ครับ" (khrap): "เหลือห้องเดียวค่ะ! พิมพ์หนึ่งในแชทเลย!"
 
 A young Thai woman agent in a light blazer stands in a bright modern Bangkok condo living room, floor-to-ceiling window view behind her, performing a high-energy sales pitch straight into the lens. She holds up ONE index finger to the camera — a single finger, held steady — then points at the river view with a full open palm, slaps a plain completely blank bright-orange round sticker (solid color, NO writing on it) onto the window glass with a flat hand, and finally taps her wrist urgently like a ticking watch, eyes huge, leaning slightly toward the lens. Fast excited energy throughout, completely earnest, no irony. Hands always clearly visible with simple shapes: one finger, open palm, flat tap — never finger counting.
 
