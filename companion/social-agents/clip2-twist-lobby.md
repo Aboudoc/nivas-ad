@@ -11,9 +11,9 @@
 ## Prompt
 
 ```
-Vertical 9:16, single continuous 8-second shot, smooth slow dolly-in, photorealistic, Thai TV commercial style, clean bright lighting, warm tones.
+Vertical 9:16, single continuous 8-second shot, smooth slow dolly-in, photorealistic, Thai TV commercial style, clean bright lighting, warm tones. SPOKEN DIALOGUE — she says exactly this Thai line and nothing else: "ห้องว่างสามห้อง ใกล้บีทีเอสอโศก ส่งให้ลูกค้าแล้วค่ะ"
 
-The same Thai woman agent, now perfectly calm and composed, stands in the cool shade of a modern condo lobby. She holds her smartphone in one hand (screen not visible, angled away from camera) and confidently taps it twice with her thumb, then looks up with a satisfied, slightly cheeky smile, as if the chaos never existed. A happy young couple waits by the lobby entrance behind her. Serene, effortless body language. No text, no logos.
+The same Thai woman agent, now perfectly calm and composed, stands in the cool shade of a modern condo lobby. She holds her smartphone in one hand (screen not visible, angled away from camera) and confidently taps it twice with her thumb, then looks up and says her line with a satisfied, slightly cheeky smile, as if the chaos never existed. A happy young couple waits by the lobby entrance behind her. Serene, effortless body language. No text, no logos.
 ```
 
 ## Dialogue (Kling lip-sync or VO)

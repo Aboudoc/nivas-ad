@@ -15,9 +15,9 @@
 ## Prompt
 
 ```
-Vertical 9:16, single continuous 8-second shot, static camera with a gentle rack focus, photorealistic, same dim mystical fortune-teller room as the reference description: candles, incense smoke, marigold garlands, glowing crystal ball.
+Vertical 9:16, single continuous 8-second shot, static camera with a gentle rack focus, photorealistic, same dim mystical fortune-teller room as the reference description: candles, incense smoke, marigold garlands, glowing crystal ball. SPOKEN DIALOGUE — the fortune teller says exactly this Thai line and nothing else, deadpan oracular tone: "สตูดิโอ อ่อนนุช… ลูกค้าทักมาแล้วสามคน" The young woman client stays silent.
 
-The flamboyant middle-aged Thai fortune teller in white robes and jade jewelry suddenly opens her eyes wide with theatrical drama, raises one finger to the ceiling — then calmly reaches into her flowing robes, pulls out a smartphone, and taps it twice with a long jade fingernail, completely deadpan, reading the screen (angled away from camera) like a sacred text. CHARACTER REFERENCE: the young Thai woman client is the same woman as in the attached photos — her jaw drops slowly, eyes going from mystic awe to pure disbelief. The fortune teller gives one tiny knowing nod, phone still in hand, candles flickering.
+The flamboyant middle-aged Thai fortune teller in white robes and jade jewelry suddenly opens her eyes wide with theatrical drama, raises one finger to the ceiling — then calmly reaches into her flowing robes, pulls out a smartphone, and taps it twice with a long jade fingernail, completely deadpan, reading the screen (angled away from camera) like a sacred text, then pronounces her line. CHARACTER REFERENCE: the young Thai woman client is the same woman as in the attached photos — her jaw drops slowly, eyes going from mystic awe to pure disbelief. The fortune teller gives one tiny knowing nod, phone still in hand, candles flickering.
 
 Same warm candlelight amber against deep purple shadows, incense haze. The comedy is entirely deadpan — nobody smiles. No text, no logos.
 ```

@@ -21,7 +21,7 @@
 ```
 Square 1:1 aspect, single continuous 8-second shot, fixed camera, photorealistic, bright clean commercial studio look. CHARACTER REFERENCE: use the attached photos — the presenter must be the same young Thai man as in the reference images.
 
-A calm, stylish young Thai man around 30, smart casual shirt, effortless deadpan-cool energy, stands against a soft light-blue-to-white gradient studio background, framed chest-up and perfectly centered for a circular crop. He takes one relaxed sip of bright-orange Thai iced tea from a plastic cup, gives the camera a tiny knowing smile, points down toward the lower center of the frame (where a chat button will be overlaid) with two fingers, ends with a small confident nod and returns to the exact same relaxed pose as the start, cup lowered out of the bottom area. Soft even lighting, no harsh shadows, minimal smooth motion only.
+A calm, stylish young Thai man around 30, smart casual shirt, effortless deadpan-cool energy, stands against a soft light-blue-to-white gradient studio background, framed chest-up and perfectly centered for a circular crop. He takes one relaxed sip of bright-orange Thai iced tea from a plastic cup, gives the camera a tiny knowing smile, points down toward the lower center of the frame (where a chat button will be overlaid) with two fingers, ends with a small confident nod and returns to the exact same relaxed pose as the start, cup lowered out of the bottom area. Soft even lighting, no harsh shadows, minimal smooth motion only. He does not speak — mouth stays in a relaxed closed smile.
 
 Loop-friendly: first and last frame nearly identical relaxed pose. Keep the lower center of the frame clear of hands and cup at start and end for a button overlay. No text, no logos.
 ```

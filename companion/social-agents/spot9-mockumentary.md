@@ -21,9 +21,9 @@
 ## Clip 1 — talking head (the brag)
 
 ```
-Vertical 9:16, single continuous 8-second shot, static documentary interview framing: subject slightly off-center, visible clip-on microphone on her lapel, neutral small-office background with a filing shelf, flat realistic documentary lighting, one small awkward zoom punch-in mid-shot. CHARACTER REFERENCE: the woman is the same as in the attached photos.
+Vertical 9:16, single continuous 8-second shot, static documentary interview framing: subject slightly off-center, visible clip-on microphone on her lapel, neutral small-office background with a filing shelf, flat realistic documentary lighting, one small awkward zoom punch-in mid-shot. CHARACTER REFERENCE: the woman is the same as in the attached photos. SPOKEN DIALOGUE — she says exactly this short Thai line and nothing else: "เดือนที่แล้ว ปิดสามสิบดีล… ปกติค่ะ"
 
-A young Thai woman agent in a light blazer sits for a documentary interview. She looks slightly off-lens at an unseen interviewer and speaks with completely deadpan, matter-of-fact confidence — no smile, no irony, like stating the weather. She finishes, holds eye contact, and gives one slow single nod. Mockumentary tone: the comedy is that she is completely serious. No text, no logos.
+A young Thai woman agent in a light blazer sits for a documentary interview. She looks slightly off-lens at an unseen interviewer and says her line with completely deadpan, matter-of-fact confidence — no smile, no irony, like stating the weather. She finishes, holds eye contact, and gives one slow single nod. She says nothing else. Mockumentary tone: the comedy is that she is completely serious. No text, no logos.
 ```
 
 ## Clip 2 — the footage (the absurd feat)
@@ -31,15 +31,15 @@ A young Thai woman agent in a light blazer sits for a documentary interview. She
 ```
 Vertical 9:16, single continuous 8-second shot, handheld documentary camera following the action, realistic flat lighting, slight camera adjustments as if a real doc crew is struggling to keep up; a boom microphone accidentally dips into the top of the frame for a moment. CHARACTER REFERENCE: the woman is the same as in the attached photos.
 
-Inside a modern condo elevator, the young Thai woman agent stands center holding three separate document folders. Three different clients surround her: a young couple, a businessman, an elderly lady. As the elevator rises, she pivots from one to the next with calm machine-like efficiency: hands the couple a folder and a pen, points a floor number for the businessman, presents a key card to the elderly lady with a small wai — all three clients end up delighted, holding paperwork, just as the doors open. She walks out first, unhurried. Played completely straight. No text, no logos.
+Inside a modern condo elevator, the young Thai woman agent stands center holding three separate document folders. Three different clients surround her: a young couple, a businessman, an elderly lady. As the elevator rises, she pivots from one to the next with calm machine-like efficiency: hands the couple a folder and a pen, points a floor number for the businessman, presents a key card to the elderly lady with a small wai — all three clients end up delighted, holding paperwork, just as the doors open. She walks out first, unhurried. Played completely straight. No one speaks on camera. No text, no logos.
 ```
 
 ## Clip 3 — talking head (the reveal + confession)
 
 ```
-Vertical 9:16, single continuous 8-second shot, identical static documentary interview framing as clip 1: slightly off-center, clip-on microphone, neutral small-office background, flat documentary lighting. CHARACTER REFERENCE: the woman is the same as in the attached photos.
+Vertical 9:16, single continuous 8-second shot, identical static documentary interview framing as clip 1: slightly off-center, clip-on microphone, neutral small-office background, flat documentary lighting. CHARACTER REFERENCE: the woman is the same as in the attached photos. SPOKEN DIALOGUE — she says exactly these two short Thai lines, in this order, and nothing else: first "แอปค่ะ. จบ." then, after a beat, "ใช่ค่ะ นี่คือโฆษณา". The interviewer's question is NOT heard on camera (it is added in post).
 
-The young Thai woman agent listens to an unseen interviewer's question, pauses, then — without any change of expression — slowly raises her smartphone up beside her face (screen angled away from camera) and taps it once with her index finger. She holds it there, deadpan, letting the silence do the work. Then she looks straight into the lens for the first time, calm and composed, and delivers one final line directly to the camera. One small zoom punch-in on the phone tap. No text, no logos.
+The young Thai woman agent listens silently to an unseen interviewer's question, pauses, then — without any change of expression — slowly raises her smartphone up beside her face (screen angled away from camera) and taps it once with her index finger. She holds it there, deadpan, letting the silence do the work. Then she looks straight into the lens for the first time, calm and composed, and delivers her two lines directly to the camera. One small zoom punch-in on the phone tap. No text, no logos.
 ```
 
 ## Dialogue / VO (post-production, burned-in subtitles)

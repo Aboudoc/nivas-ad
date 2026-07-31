@@ -46,7 +46,7 @@ pride), not their feature checklist — it is the shareable one.
 ```
 Vertical 9:16, single continuous 8-second shot, handheld, photorealistic, Thai emotional-commercial cinematography: naturalistic, muted warm tones, soft contrast. CHARACTER REFERENCE: the woman is the same as in the attached photos.
 
-Heavy monsoon rain on a Bangkok soi at dusk. A young Thai woman agent in a cheap translucent plastic rain poncho rides pillion on a motorcycle taxi, hunched forward, hugging a documents folder under the poncho against her chest like something precious. Rain streams off her helmet; passing headlights blur in the wet air. At a red light she wipes her phone screen with her thumb and checks it — tired, determined eyes, no self-pity. Street food vendors shelter under awnings in the background. No text, no logos.
+Heavy monsoon rain on a Bangkok soi at dusk. A young Thai woman agent in a cheap translucent plastic rain poncho rides pillion on a motorcycle taxi, hunched forward, hugging a documents folder under the poncho against her chest like something precious. Rain streams off her helmet; passing headlights blur in the wet air. At a red light she wipes her phone screen with her thumb and checks it — tired, determined eyes, no self-pity. Street food vendors shelter under awnings in the background. No one speaks on camera. No text, no logos.
 ```
 
 ## Clip 2 — the kindness (the keychain)
@@ -54,7 +54,7 @@ Heavy monsoon rain on a Bangkok soi at dusk. A young Thai woman agent in a cheap
 ```
 Vertical 9:16, single continuous 8-second shot, static camera with gentle rack focus, photorealistic, naturalistic muted warm grade, soft afternoon window light. CHARACTER REFERENCE: the agent is the same woman as in the attached photos.
 
-A modest Bangkok studio apartment. The young Thai woman agent hands the room keys to a young Thai mother; a small boy around five holds his mother's leg. The mother presses her palms together in a deep grateful wai, eyes glistening. The agent kneels down to the boy's height, unclips a small worn wooden elephant keychain from her own bag, and closes it gently into his tiny hands. The boy beams at it. Unhurried, warm, quiet. No text, no logos.
+A modest Bangkok studio apartment. The young Thai woman agent hands the room keys to a young Thai mother; a small boy around five holds his mother's leg. The mother presses her palms together in a deep grateful wai, eyes glistening. The agent kneels down to the boy's height, unclips a small worn wooden elephant keychain from her own bag, and closes it gently into his tiny hands. The boy beams at it. Unhurried, warm, quiet. No one speaks on camera. No text, no logos.
 ```
 
 ## Clip 3 — 10 years later (the message)
@@ -62,13 +62,13 @@ A modest Bangkok studio apartment. The young Thai woman agent hands the room key
 ```
 Vertical 9:16, single continuous 8-second shot, slow subtle push-in, photorealistic, naturalistic muted warm grade, night. CHARACTER REFERENCE: the woman is the same as in the attached photos, styled subtly older — different hairstyle, elegant senior attire.
 
-A tidy small home office at night, Bangkok city bokeh through the window, a warm desk lamp. The Thai woman agent, now in her forties, reviews documents. Her phone buzzes; she picks it up (screen angled away from camera) and reads a new message. She pauses — then a slow, surprised smile spreads; her hand rises to her mouth, eyes softening with a memory. No text, no logos.
+A tidy small home office at night, Bangkok city bokeh through the window, a warm desk lamp. The Thai woman agent, now in her forties, reviews documents. Her phone buzzes; she picks it up (screen angled away from camera) and reads a new message. She pauses — then a slow, surprised smile spreads; her hand rises to her mouth, eyes softening with a memory. No one speaks on camera. No text, no logos.
 ```
 
 ## Clip 4 — the payback (the keychain returns)
 
 ```
-Vertical 9:16, single continuous 8-second shot, static camera, photorealistic, naturalistic warm grade, golden late-afternoon backlight. CHARACTER REFERENCE: the agent is the same woman as in the attached photos, styled subtly older.
+Vertical 9:16, single continuous 8-second shot, static camera, photorealistic, naturalistic warm grade, golden late-afternoon backlight. CHARACTER REFERENCE: the agent is the same woman as in the attached photos, styled subtly older. SPOKEN DIALOGUE — the young man says softly exactly "พี่ฟอนครับ… ผมจะหาห้องแรกของผมครับ" and nothing else; she does not speak.
 
 At a condo doorway flooded with golden light, a Thai young man around eighteen in a crisp first-job white shirt greets the older woman agent with a deep respectful wai. Then he opens his palm toward her: the same small worn wooden elephant keychain, aged and scratched. Her eyes fill instantly; she laughs and covers her mouth at the same time; he grins shyly. She reaches out and closes his fingers back over the keychain. Warm, tearful, joyful. No text, no logos.
 ```

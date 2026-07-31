@@ -16,7 +16,7 @@
 ```
 Vertical 9:16, single continuous 8-second shot, handheld documentary energy with a slow push-in, photorealistic, Thai TV commercial style, bright natural daylight, warm skin tones, punchy saturated colors, slight film grain.
 
-A Thai woman around 30, freelance real-estate agent, light blazer and sneakers, rides on the back of a Bangkok motorcycle taxi (driver wearing the iconic orange win-motosai vest) weaving through a sunny Sukhumvit soi. She grips a chaotic spiral notebook stuffed with sticky notes while her phone screen floods with endless chat notifications. A sticky note tears off and flies away behind her. Her face: pure comic panic, sweat, wide eyes. Background: condo towers, street food stalls, BTS line overhead. No text, no logos.
+A Thai woman around 30, freelance real-estate agent, light blazer and sneakers, rides on the back of a Bangkok motorcycle taxi (driver wearing the iconic orange win-motosai vest) weaving through a sunny Sukhumvit soi. She grips a chaotic spiral notebook stuffed with sticky notes while her phone screen floods with endless chat notifications. A sticky note tears off and flies away behind her. Her face: pure comic panic, sweat, wide eyes. Background: condo towers, street food stalls, BTS line overhead. No one speaks on camera — the dialogue is voice-over added in post. No text, no logos.
 ```
 
 ## Dialogue / VO (post-production)
