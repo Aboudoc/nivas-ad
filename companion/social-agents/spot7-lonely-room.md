@@ -74,20 +74,45 @@ The agent gestures at the view, completely deadpan, never acknowledging the
 costume man. No text, no logos.
 ```
 
-## Clip 3 — home (the warm landing)
+## Clip 3 — home (the warm landing) — SPLIT INTO TWO GENERATIONS
+
+> **⚠️ Troubleshooting note (from real runs)**: generating this as one shot fails —
+> the face reference bleeds onto EVERY woman in frame (two identical P'Fons), and
+> door + couple + costume + agent is too many elements for one coherent take.
+> Fix: generate 3a (no agent, no face refs, no door action) and 3b (P'Fon alone,
+> face refs attached), then cut 3a (≈5 s) → 3b (≈3 s) in the edit.
+> General rule for the whole library: **attach P'Fon's face refs ONLY to clips
+> where she is the sole woman in frame**; when another woman shares the frame,
+> describe her explicitly different (age, haircut, outfit).
+
+### Clip 3a — the couple at home (NO agent in frame, NO face references)
 
 ```
 Vertical 9:16, single continuous 8-second shot, static camera, photorealistic,
 bright warm Thai TV commercial colors, golden late-afternoon light.
-CHARACTER REFERENCE: the agent is the same woman as in the attached photos.
 
-The same condo unit, now alive: moving boxes, a lamp glowing, the young Thai
-couple unpacking and laughing. The man in the soft padded miniature-condo-room
-costume (grey fabric walls, small fabric window, tiny door flap — cobwebs GONE,
-costume clean and bright) sits contently on the sofa right between the couple,
-sipping from a tiny mug, utterly at home; the couple doesn't mind him at all. At
-the doorway, the Thai woman agent watches with a satisfied smile, taps her phone
-twice, and gives the room-man a little thumbs-up. He winks at the camera.
+A Bangkok condo unit, now alive: moving boxes, a lamp glowing. A young Thai
+couple unpacks and laughs — the man has short hair and glasses; the woman has a
+short bob haircut and a yellow dress. The man in the soft padded miniature-
+condo-room costume (grey fabric walls, small fabric window on his chest, tiny
+fabric door flap — cobwebs GONE, costume clean and bright) sits contently on the
+sofa right between them, sipping from a tiny mug, utterly at home; the couple
+doesn't mind him at all. He gives a slow happy wink to the camera.
+Exactly three people in frame. No text, no logos.
+```
+
+### Clip 3b — P'Fon's button (alone in frame, face references attached)
+
+```
+Vertical 9:16, single continuous 8-second shot, static medium close-up,
+photorealistic, bright warm Thai TV commercial colors, golden late-afternoon
+light. CHARACTER REFERENCE: the woman is the same as in the attached photos.
+
+A young Thai woman agent in a light blazer stands in a warm condo corridor,
+leaning lightly against the open doorframe (the door is already open — no door
+movement). She looks off-frame toward the living room with a satisfied smile,
+taps her phone twice with her thumb, then gives a little thumbs-up toward the
+room. Only one person in frame. Soft golden backlight, gentle bokeh behind her.
 No text, no logos.
 ```
 
