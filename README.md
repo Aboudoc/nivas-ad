@@ -40,6 +40,9 @@ Platform: [Higgsfield](https://higgsfield.ai) · generation constraint: **8-seco
    image; on Seedance, the constraint is written into the prompt.
 6. **Luxury end card (Global)**: 1.5 s of black, NIVAS logotype alone, silence. The logo
    never appears *inside* the world of the film.
+7. **Prompts are flowing paragraphs** — never hard-wrap lines mid-sentence inside a
+   prompt block (a stray line break can read as a segment boundary to the model);
+   paste prompts verbatim as written.
 
 ## Repository layout
 
