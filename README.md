@@ -81,6 +81,7 @@ companion/
     spot12-street-interview.md    Spot 12 (TikTok, 3×8 s): vox-pop escalation, stitch-bait
     spot13-first-deal.md          Spot 13 (4K flagship, 2×8 s): the first deal — hustle tearjerker
     spot14-cha-yen-luxury.md      Spot 14 (4K, 1×8 s): cha yen shot like a Chanel commercial
+    spot15-elevator-mode.md       Spot 15 (4K cinematic 16:9, 1×8 s): elevator mode — the sexy switch
   site-widgets/         Small looping videos embedded in the website UI
     line-contact-circle.md        Round LINE chat bubble presenter (looping video, P'Fon)
     line-contact-circle-male.md   Male variant: "Ton", the calm cha-yen agent from the hero
