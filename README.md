@@ -92,6 +92,10 @@ companion/
     ton-image-pack.md             9 Ton poses (male, deadpan-cool register + cha-yen signature)
 editing/
   capcut-guide.md       CapCut desktop editing guide: 4 reusable assets, golden rules, per-spot recipes
+  assets-prompts.md     Build specs for the 4 assets + full Thai VO recording brief
+pipeline/
+  creative-producer-brief.md  Bootstrap prompt for the motion-design pipeline (Higgsfield MCP session)
+.claude/skills/motion-design/ Repo-local skill: brief → storyboard sheet → Seedance 2.0 video
 global/
   template-master.md    THE modular luxury template ({AGENT_NATIONALITY}, {CLIENT_…}, {DOG_CLAUSE}…)
   nationality-codes.md  Per-nationality codes table: outfits, dog, accent color
