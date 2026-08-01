@@ -8,6 +8,10 @@ and the subtitled version of every edit.
 
 ## The 4 reusable assets (build once, before any edit)
 
+> **Build prompts & full specs**: see [assets-prompts.md](assets-prompts.md) —
+> exact CapCut settings for both subtitle presets, the end-card template
+> assembly, and the complete Thai VO recording brief (casting + all lines).
+
 1. **"TVC" subtitle preset** — bold white, black stroke, bottom 25% of frame
    (safe zone). Used on all comedy spots.
 2. **"Sadvertising" subtitle preset** — thin white, no stroke, minimal. Used on
