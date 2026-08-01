@@ -1,24 +1,30 @@
-# Agent social spot — Clip 2/3: the twist (lobby)
+# Agent social spot — Clip 2/3: the twist (lobby) — REV 2, zero-speech
 
-- **Usage**: second clip of the chaos → twist → payoff structure. The contrast with
-  clip 1 IS the message: same agent, same day, zero chaos.
-- **Model**: **Kling 3.0** if she speaks on camera (best lip-sync); Seedance 2.0
-  if the line goes to VO.
-- **Format**: 9:16 · 8 s · continuous shot
-- **Post-production**: the phone screen is never visible in the generation —
-  if a UI insert is wanted, cut to a real screen recording of the app.
+- **Rev 2 (4-credit rerun)**: same scenario, bug-proofed — the pinned spoken line
+  is REMOVED from generation (Seedance mangles Thai speech: the ค่ะ→ครับ and
+  garbled-Asok incidents); she no longer talks on camera, the line is post VO.
+  The couple is explicitly differentiated (face-reference bleed guard) and kept
+  far out of focus.
+- **Usage**: second clip of chaos → twist → payoff. The contrast with clip 1 IS
+  the message: same agent, same day, zero chaos.
+- **Model**: Seedance 2.0 · **Format**: 9:16 · 8 s · continuous shot
+- **Post-production**: real Thai VO (line below) + lobby ambience + burned-in
+  Thai subtitles. If a UI insert is wanted, cut to a real screen recording of
+  the app — never generated.
 
 ## Prompt
 
 ```
-Vertical 9:16, single continuous 8-second shot, smooth slow dolly-in, photorealistic, Thai TV commercial style, clean bright lighting, warm tones. SPOKEN DIALOGUE — she says exactly this Thai line and nothing else: "ห้องว่างสามห้อง ใกล้บีทีเอสอโศก ส่งให้ลูกค้าแล้วค่ะ"
+Vertical 9:16, single continuous 8-second shot, smooth slow dolly-in, photorealistic, Thai TV commercial style, clean bright lighting, warm tones. CHARACTER REFERENCE: the agent is the same woman as in the attached photos; every other person in frame is explicitly different from her.
 
-The same Thai woman agent, now perfectly calm and composed, stands in the cool shade of a modern condo lobby. She holds her smartphone in one hand (screen not visible, angled away from camera) and confidently taps it twice with her thumb, then looks up and says her line with a satisfied, slightly cheeky smile, as if the chaos never existed. A happy young couple waits by the lobby entrance behind her. Serene, effortless body language. No text, no logos.
+The same Thai woman agent, now perfectly calm and composed, stands in the cool shade of a modern condo lobby. She holds her smartphone in one hand, screen angled away from the camera, and confidently taps it twice with her thumb, then looks up with a satisfied, slightly cheeky closed-mouth smile, as if the chaos never existed. Far behind her by the lobby entrance, softly out of focus, waits a happy young couple: a man with short hair and glasses, and a woman with a short bob haircut in a yellow dress. Serene, effortless body language.
+
+No one speaks on camera — mouths stay closed; the line is voice-over added in post. ABSOLUTELY CLEAN FRAME: no watermark, no icons, no interface graphics, no on-screen text, no signs or labels anywhere, the phone screen is never visible. Plain unedited camera footage.
 ```
 
-## Dialogue (Kling lip-sync or VO)
+## Dialogue / VO (post-production)
 
 ```
-ห้องว่าง 3 ห้อง ใกล้ BTS อโศก — ส่งให้ลูกค้าแล้วค่ะ
+ห้องว่างสามห้อง ใกล้บีทีเอสอโศก — ส่งให้ลูกค้าแล้วค่ะ
 ```
 *"3 units available near BTS Asok — already sent to the client."*
