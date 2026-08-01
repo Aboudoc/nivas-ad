@@ -93,6 +93,7 @@ companion/
 editing/
   capcut-guide.md       CapCut desktop editing guide: 4 reusable assets, golden rules, per-spot recipes
   assets-prompts.md     Build specs for the 4 assets + full Thai VO recording brief
+  music-suno.md         Suno music generation: the selected molam-trap prompt + edit mapping
 pipeline/
   creative-producer-brief.md  Bootstrap prompt for the motion-design pipeline (Higgsfield MCP session)
 .claude/skills/motion-design/ Repo-local skill: brief → storyboard sheet → Seedance 2.0 video
