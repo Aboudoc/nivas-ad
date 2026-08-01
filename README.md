@@ -90,6 +90,8 @@ companion/
   site-images/          STILL-image prompts (not video) for website illustration
     pfon-image-pack.md            8 P'Fon presenter poses (cutout-ready) mapped to site sections
     ton-image-pack.md             9 Ton poses (male, deadpan-cool register + cha-yen signature)
+editing/
+  capcut-guide.md       CapCut desktop editing guide: 4 reusable assets, golden rules, per-spot recipes
 global/
   template-master.md    THE modular luxury template ({AGENT_NATIONALITY}, {CLIENT_…}, {DOG_CLAUSE}…)
   nationality-codes.md  Per-nationality codes table: outfits, dog, accent color
