@@ -39,6 +39,15 @@ invented Thai lyrics).
 Thai pop rock bar anthem, live band energy, chiming clean electric guitar riffs, warm driving bass, tight punchy live drums, big emotional singalong chorus melody, wordless group gang vocals whoa-oh hooks, uplifting bittersweet feel-good mood, polished modern Thai pop production. Three-part structure: PART 1 upbeat driving verse energy, PART 2 stripped-down quiet moment with clean guitar arpeggios, PART 3 the big anthemic chorus explodes with gang vocals and full band, one clean final chord, hard stop, no fade-out.
 ```
 
+## Alternative flavor — classic TVC comedy score (for the cartoon spots: 2, 7, humour heroes)
+
+Retro 50s-60s big-band easy listening — the historical Thai comedy-TVC sound —
+with a vintage luk krung flavor. Instrumental ON, Lyrics empty:
+
+```
+classic funny TV commercial score, retro 1960s big band easy listening, frenzied pizzicato strings, muted comedic trumpets and trombone slides, xylophone and playful mallets, cheeky clarinet, jazzy upright bass and brushed drums, vintage Thai luk krung retro flavor, mischievous cartoon energy, instrumental. Three-part structure: PART 1 frantic busy chase feel with racing pizzicato and brass stabs; PART 2 sudden quiet sneaky tiptoe passage with soft muted notes; PART 3 the full band bursts back joyful and triumphant, big final brass hit with a cymbal crash, hard stop, no fade-out.
+```
+
 ## Alternative flavor — molam trap fusion (viral-TikTok direction)
 
 Instrumental ON, Lyrics empty:
