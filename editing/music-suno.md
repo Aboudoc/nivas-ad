@@ -45,7 +45,7 @@ Retro 50s-60s big-band easy listening — the historical Thai comedy-TVC sound �
 with a vintage luk krung flavor. Instrumental ON, Lyrics empty:
 
 ```
-classic funny TV commercial score, retro 1960s big band easy listening, frenzied pizzicato strings, muted comedic trumpets and trombone slides, xylophone and playful mallets, cheeky clarinet, jazzy upright bass and brushed drums, vintage Thai luk krung retro flavor, mischievous cartoon energy, instrumental. Three-part structure: PART 1 frantic busy chase feel with racing pizzicato and brass stabs; PART 2 sudden quiet sneaky tiptoe passage with soft muted notes; PART 3 the full band bursts back joyful and triumphant, big final brass hit with a cymbal crash, hard stop, no fade-out.
+classic TV commercial score, retro 1960s big band easy listening, vintage Thai luk krung retro flavor, instrumental. Three-part structure: PART 1 comedic and frantic — racing pizzicato strings, muted trumpet stabs, trombone slides, xylophone runs, mischievous cartoon chase energy; PART 2 the mood turns warm and optimistic — gentle swelling strings, soft piano, light brushed drums, hopeful and reassuring; PART 3 bright uplifting feel-good commercial finale — warm full brass swell, glockenspiel sparkle, confident happy melody rising to one clean final hit with a soft cymbal, hard stop, no fade-out.
 ```
 
 ## Alternative flavor — molam trap fusion (viral-TikTok direction)
